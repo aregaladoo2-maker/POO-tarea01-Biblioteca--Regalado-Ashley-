@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# POO-tarea01-Biblioteca--Regalado-Ashley-
-=======
 NOMBRE: Ashley Mishell Regalado Oroñez 
 CARRERA: Ing.de Software
 SEMESTRE: 4to Semestre 
@@ -57,4 +54,3 @@ Utiliza el método devolver_libro para liberar un ejemplar y cambiar su estado d
 - CONSULTAS Y REPORTES :
 Filtra y muestra en pantalla los préstamos que tiene activos un estudiante específico en diferentes momentos del tiempo.
 Imprime el estado de la biblioteca al inicio, durante y al final del proceso para verificar que los contadores de libros y préstamos coincidan.
->>>>>>> ff34d75 (primer commit)
