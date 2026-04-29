@@ -29,7 +29,7 @@ def main():
     print(f"Estudiantes generados: {len(estudiantes_fake)}")
     print(f"Libros generados: {len(libros_fake)}")
 
-    # Registrar libros manuales (RF-01)
+    # Registrar libros manuales 
     print("\n── Registrando libros ──")
     libro1 = Libro("978-0-13-468599-1", "El Principito", "Antoine de Saint-Exupéry")
     libro2 = Libro("978-0-06-112008-4", "Cien Años de Soledad", "Gabriel García Márquez")
@@ -39,7 +39,7 @@ def main():
     biblioteca.registrar_libro(libro2)
     biblioteca.registrar_libro(libro3)
 
-    # Registrar estudiantes manuales (RF-02)
+    # Registrar estudiantes manuales 
     print("\n── Registrando estudiantes ──")
     est1 = Estudiante("0926400615", "Mishell", "Regalado", "Ingeniería en Sistemas")
     est2 = Estudiante("0912345678", "Israel", "Molina", "Ingeniería Industrial")
